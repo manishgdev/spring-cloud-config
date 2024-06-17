@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Manish Singh - Product Owner"
     # email: "manish@eazybank.com"
