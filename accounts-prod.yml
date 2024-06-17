@@ -6,7 +6,7 @@ accounts:
   contactDetails:
     name: "Manish Singh - Product Owner"
     # email: "manish@eazybank.com"
-    email: {cipher}d372e4e5d04207e19b3b03aad38f0981c72f548f44f524581c143acb82de49653af3847f2713d2394d911d0861656b5a
+    email: "{cipher}d372e4e5d04207e19b3b03aad38f0981c72f548f44f524581c143acb82de49653af3847f2713d2394d911d0861656b5a"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
